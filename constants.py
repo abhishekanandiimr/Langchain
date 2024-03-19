@@ -1,1 +1,1 @@
-openai_key = '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'
+openai_key = ''
